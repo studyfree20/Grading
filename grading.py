@@ -4,7 +4,7 @@ mark1 = input();
 if mark1 == 'x':
     exit();
 else:
-     mark2 = int(input());
+    mark1 = int(input());
     mark2 = int(input());
     mark3 = int(input());
     mark4 = int(input());
